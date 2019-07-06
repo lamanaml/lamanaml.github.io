@@ -1,0 +1,94 @@
+body {
+   font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+   color:#777777;
+   width: 960px;
+
+}
+.mast {
+   border-bottom: 2px solid#cccccc;
+   position:fixed;
+   width: 960px;
+   margin-top:0px;
+   z-index: 100;
+   background-color:white;
+   }
+header {
+   background-color: #4aaaa5;
+   color:#ffffff;
+   font-size: 20px;
+   font-family: 'Georgia', Times, Times New Roman, serif;
+   width: 200px;
+   text-align:center;
+   padding:20px 20px 20px 20px ;
+   margin-left:100px;
+   margin-bottom: -20px;
+}
+   
+h1 {
+   font-size: 20px;
+   font-family: 'Georgia', Times, Times New Roman, serif;
+   color:#4aaaa5;
+   padding:30px;
+   border-bottom: 2px solid #cccccc;
+}
+nav {
+   margin-left:650px;
+   margin-top:-50px;
+   padding:17px ;
+}
+a {
+   text-decoration: none;
+   color:grey;
+   font-size:12px;
+}
+
+section {
+ position:absolute;
+ background-image: url("../../images/tiles.png"); 
+  border:#dddddd;
+  width:960px;
+  margin-top:61px;
+  
+  
+}
+img {
+   float:left;
+   padding: 20px;
+}
+.mainbody {
+  background-color: white;
+  width:700px;
+  border:#dddddd;
+  float:left;
+  margin-left:70;
+  margin-top:21px;
+  padding:10px;
+  
+  
+}
+.content {
+     padding:20px 20px 20px 10px;
+     line-height:25px;
+
+}
+footer {
+  color:white;
+    position: fixed;
+    bottom: 0px;
+    height: 30px;
+    margin: 0px auto;
+   background-color: grey;
+   text-align: center;
+   font-size: 10px;
+   width: 960px;
+   padding:0px;
+   padding-top:30px;
+   z-index: 1;
+   border-top: 5px solid#4aaaa5;
+  
+}
+
+
+
+
+
