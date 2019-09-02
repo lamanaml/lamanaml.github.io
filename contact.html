@@ -1,48 +1,80 @@
-<html>
+<!DOCTYPE html>
+
    <head>
-      <title>Contact :: LaMana Donadelle </title>
-      <link rel="stylesheet" href="assets/css/reset.css">
-      <link rel="stylesheet" href="assets/css/style.css">
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <title>LaMana Donadelle : Contact</title>
+      <meta name="description" content="">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <!-- Link to CSS -->
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="assets/css/portfolio.css">
+     <link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Cinzel|Nanum+Gothic|PT+Sans|Quicksand|Raleway|Rubik|Source+Code+Pro|Source+Sans+Pro">
+
    </head>
    <body>
-      <div class="mast">
-         <header>
-            LaMana Donadelle
-         </header>
-         <nav>
-            <a href="index.html">About</a> | <a href="portfolio.html">Portfolio</a> | <a href="contact.html">Contact</a>
-         </nav>
-       </div>
-      <section>
-      <div class="mainbody">
-          <h1>Contact</h1>
-         <form action="#" class="content">
-            <div >
-               <label for="name"> Name</label>
+      <div class="container">
+         <ul class="nav justify-content-end">
+            <li class="nav-item">
+               <a class="nav-link active" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="portfolio.html">Portfolio</a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="aboutme.html">About Me</a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+         </ul>
+      </div>
+
+      <div class="jumbotron jumbotron-fluid">
+         <div class="container">
+            <h1 class="display-4" >LaMana Donadelle</h1>
+            <p class="lead">Front-End Web Developer</p>
+         </div>
+      </div>
+
+      <div class="container">
+         <form class="sucess-none" id="newContact" >
+         <div class="form-group row">
+            <label for="name" class="col-sm-2 col-form-label">Name</label>
+            <input type="text" id="name" name="name" >
             </div>
-            <div>
-               <input type="text" id="name" name="name" placeholder="Jane Doe">
+            <div class="form-group row">
+             <label for="email" class="col-sm-2 col-form-label">Email Address</label>
+             <input type="text" id="email" name="email" >
+              </div>
+           <div class="form-group row">
+           <label for="subject" class="col-sm-2 col-form-label">Message</label> 
+           <textarea id="message" name="message"  style="height:200px"></textarea>
             </div>
-            <div>
-               <label for="email">Email</label>
-            </div>
-            <div>
-               <input type="text" id="email" name="email" placeholder="example@email.com">
-            </div>
-            <div>
-               <label for="subject">Subject</label>
-            </div>
-            <div>
-               <textarea id="subject" name="subject" placeholder="" style="height:200px"></textarea>
-            </div>
-<div>
-   </div>
-    <input id="submit" type="submit" value="Submit">
-    </div>
-        
-      </section>
-       <footer>Copyright &copy;</footer>
-           
-      
+           <div class="form-group row">
+              <div class="col-sm-2 col-form-label"></div>
+              <input id="submit" type="submit" value="Submit"> 
+              </div>
+         </form>
+      </div>
+
+
+
+
+
+
+  <div class="footer navbar-fixed-bottom">Footer goes here</div>
+
+<script src="jquery-3.4.1.min.js"></script>
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/6.5.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/6.5.0/firebase-database.js"></script>
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#config-web-app -->
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+      <script src="assets/javascript/portfolio.js"></script>
+
    </body>
 </html>
