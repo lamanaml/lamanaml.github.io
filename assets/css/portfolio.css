@@ -5,3 +5,9 @@
         background-image: url(../images/hello-i-m-nik-MAgPyHRO0AA-unsplash.jpg);
 }
 
+#portfolioimg {
+        width: 200px;
+}
+.row {
+        margin: 20px;
+}
