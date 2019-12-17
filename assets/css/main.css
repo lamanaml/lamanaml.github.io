@@ -23,14 +23,21 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+	}
+
+
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;}
+	display: block;
+	font-family: 'Raleway', sans-serif;}
+
+
 
 body {
 	line-height: 1;
+	
 }
 
 ol, ul {
@@ -2070,7 +2077,7 @@ input, select, textarea {
 				-webkit-transition: opacity 0.2s ease-in-out;
 				-ms-transition: opacity 0.2s ease-in-out;
 				transition: opacity 0.2s ease-in-out;
-				border-radius: 0.35em;
+				border-radius: 0.3em;
 				border: solid 3px rgba(255, 255, 255, 0.5);
 				color: #fff;
 				content: 'View Site';

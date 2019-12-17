@@ -4,6 +4,8 @@
     background-size: cover;
 }
 
+
+
 /* Container holding the image and the text */
 .container {
   position: relative;
@@ -20,3 +22,11 @@
   padding-right: 20px;
 }
 
+hr { 
+            position: relative; 
+            top: 0px; 
+            border: none; 
+            height: 2px; 
+            background: grey; 
+          
+        } 
