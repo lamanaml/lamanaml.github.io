@@ -30,3 +30,12 @@ hr {
             background: grey; 
           
         } 
+
+strong {
+  color: black;
+  font-weight: 600;
+}
+
+.skills {
+   padding: 15px;
+}
