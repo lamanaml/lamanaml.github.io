@@ -1,0 +1,7 @@
+---
+deployment:
+ tasks:
+ - export DEPLOYPATH=/home4/jlodywmy/public_html/lamanadonadelle/
+ - /bin/cp -R assets $DEPLOYPATH
+ - /bin/cp -R images $DEPLOYPATH
+
