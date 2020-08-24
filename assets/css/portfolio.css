@@ -1,0 +1,13 @@
+ /* .card {
+    width:300px;
+    margin:30px;
+ } */
+
+ .intro {
+   background-color:grey; 
+   color:white;
+   font-size: 20px;
+   font-family: 'Open Sans', sans-serif;
+   padding: 30px 100px 30px 100px;
+
+ }

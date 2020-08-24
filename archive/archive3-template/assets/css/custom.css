@@ -1,0 +1,77 @@
+#header {
+    background-image: url("../../images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+/* Container holding the image and the text */
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+hr { 
+            position: relative; 
+            top: 0px; 
+            border: none; 
+            height: 2px; 
+            background: grey; 
+          
+        } 
+
+strong {
+  color: black;
+  font-weight: 600;
+}
+
+.skills {
+   padding: 15px;
+}
+
+.footer {
+   position: fixed;
+   padding: 50px;
+   margin-top: 10px;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: grey;
+   color: white;
+  text-align: center;
+}
+
+.footer a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.footer a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.footer a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
