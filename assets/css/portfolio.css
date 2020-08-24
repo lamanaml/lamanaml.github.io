@@ -77,7 +77,7 @@
 .header {
   font-family: 'Montserrat', sans-serif; 
   font-weight:bold;
-  font-size:80px; 
+  font-size:60px; 
   margin:10vh; 
   color: gold;
   text-align: center;
@@ -120,6 +120,16 @@
       margin:0px;
    }
 
+  .header1 {
+    font-family: 'Montserrat', sans-serif; 
+    font-weight:bold;
+    font-size:40px; 
+    margin:3vh; 
+    color: gold;
+    text-align: center;
+  }
+
+
    .header {
       font-family: 'Montserrat', sans-serif; 
       font-weight:bold;
@@ -130,14 +140,6 @@
       text-align: left;
    
  }
- .header1 {
-  font-family: 'Montserrat', sans-serif; 
-  font-weight:bold;
-  font-size:40px; 
-  margin:3vh; 
-  color: gold;
-  text-align: center;
-}
 
 
 }
