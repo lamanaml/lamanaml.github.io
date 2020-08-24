@@ -77,3 +77,12 @@
 .footer {
   background-color: grey;
 }
+
+.header {
+  font-family: 'Montserrat', sans-serif; 
+  font-weight:bold;
+  font-size:80px; 
+  margin:10vh; 
+  color: gold;
+  text-align: center;
+}
