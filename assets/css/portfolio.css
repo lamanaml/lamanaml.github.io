@@ -1,5 +1,5 @@
 
-    .body{
+ .body{
         width:100%;
    }
 
@@ -10,6 +10,7 @@
     background-size: 100%;
     background-color: white;
     margin:0px;
+      adding:0px;
 }
 
  .toggleimage {
@@ -32,6 +33,7 @@
    font-size: 20px;
    font-family: 'Open Sans', sans-serif;
    padding: 30px 100px 30px 100px;
+   margin:0px;
  }
 
  /* .image {
@@ -74,6 +76,7 @@
   color: gold;
   text-align: center;
 }
+
 .header {
   font-family: 'Montserrat', sans-serif; 
   font-weight:bold;
