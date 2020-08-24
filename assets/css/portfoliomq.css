@@ -39,9 +39,8 @@
    .header {
       font-family: 'Montserrat', sans-serif; 
       font-weight:bold;
-      font-size:6vh; 
-      margin:5vh; 
-      padding:3vh; 
+      font-size:5vh; 
+      padding:2vh; 
       color: gold;
       text-align: left;
       background-color: grey;

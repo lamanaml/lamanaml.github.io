@@ -8,7 +8,7 @@
     background-position: center center ;
     background-repeat: no-repeat;
     background-size: 100%;
-    background-color: #464646;
+    background-color: white;
     margin:0px;
 }
 
@@ -34,7 +34,7 @@
    padding: 30px 100px 30px 100px;
  }
 
- .image {
+ /* .image {
   opacity: 1;
   display: block;
   width: 100%;
@@ -60,12 +60,20 @@
 
 .container:hover .middle {
   opacity: 1;
-}
+} */
 
 .footer {
   background-color: grey;
 }
 
+.header1 {
+  font-family: 'Montserrat', sans-serif; 
+  font-weight:bold;
+  font-size:80px; 
+  margin:10vh; 
+  color: gold;
+  text-align: center;
+}
 .header {
   font-family: 'Montserrat', sans-serif; 
   font-weight:bold;
@@ -99,7 +107,6 @@
       background-position: center center ;
       background-repeat: no-repeat;
       background-size: 50%;
-      
       margin:0px;
       padding:0px;
   }
@@ -116,13 +123,20 @@
    .header {
       font-family: 'Montserrat', sans-serif; 
       font-weight:bold;
-      font-size:6vh; 
-      margin:5vh; 
-      padding:3vh; 
+      font-size:5vh; 
+      padding:2vh; 
       color: gold;
       text-align: left;
       background-color: grey;
  }
+ .header1 {
+  font-family: 'Montserrat', sans-serif; 
+  font-weight:bold;
+  font-size:40px; 
+  margin:3vh; 
+  color: gold;
+  text-align: center;
+}
 
 
 }
