@@ -5,7 +5,7 @@
       width:100%;
    }
 
-    .hide {
+    .toggleimage {
      display:block;
       background-image: url(../images/port1.jpg);
       background-size:cover;
