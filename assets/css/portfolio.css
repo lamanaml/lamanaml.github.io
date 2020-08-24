@@ -1,4 +1,8 @@
 
+    .body{
+        width:100%;
+   }
+
  .jumbotron{
     background-image: url(../images/bg2.png);
     background-position: center center ;
