@@ -10,11 +10,14 @@
     background-size: 100%;
     background-color: white;
     margin:0px;
-      padding:0px;
+    padding:30px;
 }
 
+.nomargin {
+  margin:0px;
+}
  .toggleimage {
-           display:none;
+    display:none;
    
 }
  .card {
