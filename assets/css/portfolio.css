@@ -9,9 +9,17 @@
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: white;
-    margin:0px;
+    margin:-20px;
     padding:30px;
 }
+
+.textcenter {
+  margin:0px;
+}
+
+section {
+ margin:0px;
+ }
 
 .nomargin {
   margin:0px;
@@ -75,7 +83,7 @@
   font-family: 'Montserrat', sans-serif; 
   font-weight:bold;
   font-size:80px; 
-  margin:10vh; 
+  /* margin:10vh;  */
   color: gold;
   text-align: center;
 }
