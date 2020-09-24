@@ -10,7 +10,7 @@
 
 
 ## Introduction
-This portfolio showcases the skills, freelance and class projects for LaMana's Front end development work
+This portfolio showcases the Full Stack Web Development skills for freelance and class projects for LaMana
 
 
 
@@ -19,8 +19,8 @@ This portfolio showcases the skills, freelance and class projects for LaMana's F
  - HTML
  - CSS
  - Bootstrap
+ - Animate CSS
  - SCSS
- - PHP
  - JavaScript
 
 
