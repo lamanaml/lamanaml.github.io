@@ -14,13 +14,12 @@ This portfolio showcases the skills, freelance and class projects for LaMana's F
 
 
 ## Features and Functionality
-HTML
-CSS
-Bootstrap
-SASS
-PHP
-Animate
-npm
+ - HTML
+ - CSS
+ - Bootstrap
+ - SCSS
+ - PHP
+ - JavaScript
 
 
 
