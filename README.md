@@ -10,34 +10,19 @@
 
 
 ## Introduction
-
-
-
-## Design Process / Code Samples
-
+This portfolio showcases the skills, freelance and class projects for LaMana's Front end development work
 
 
 ## Features and Functionality
+HTML
+CSS
+Bootstrap
+SASS
+PHP
+Animate
+npm
 
 
-
-## Usage
-
-
- 
-## APIs used
-
-
-
-
-## Team Members
-
-
-## Supporting Documentation
- ###  Concept Development Document
-
-
- ### Presentation
 
 
 
