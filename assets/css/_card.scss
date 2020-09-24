@@ -133,7 +133,7 @@ body {
           margin-left: -10px;
           opacity: 0;
           vertical-align: middle;
-          transition: margin .3s, opacity .3s;
+          transition: margin .3s, opacity 1s;
         }
 
         &:hover:after {
@@ -145,6 +145,7 @@ body {
   }
   p {
     position: relative;
+    color: $color_grey;
     margin: 1rem 0 0;
     &:first-of-type {
       margin-top: 1.25rem;
@@ -157,6 +158,7 @@ body {
         top: -0.75rem;
         border-radius: 3px;
         font-family: $fontBody ;
+        
       }
     }
   }

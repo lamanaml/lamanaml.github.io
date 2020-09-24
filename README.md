@@ -1,16 +1,43 @@
-## portfolio
-
-Full Stack Web Development portfolio for LaMana Donadelle. 
+# Front End Web Development Portfolio for LaMana Donadelle
 
 
-View the live portfolio at https://lamanaml.github.io/
+## GitHub Deployment
+ ### Live Site
+ https://lamanadonadelle.com
+
+ ### Repository
+ https://lamanaml.github.io/
 
 
-### Class Assignments
+## Introduction
 
 
-### Group Projects
+
+## Design Process / Code Samples
 
 
-### Client Web Sites
+
+## Features and Functionality
+
+
+
+## Usage
+
+
+ 
+## APIs used
+
+
+
+
+## Team Members
+
+
+## Supporting Documentation
+ ###  Concept Development Document
+
+
+ ### Presentation
+
+
 

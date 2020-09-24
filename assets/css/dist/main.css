@@ -170,7 +170,7 @@ body {
   margin-left: -10px;
   opacity: 0;
   vertical-align: middle;
-  transition: margin 0.3s, opacity 0.3s;
+  transition: margin 0.3s, opacity 1s;
 }
 .blog-card .description .read-more a:hover:after {
   margin-left: 5px;
@@ -178,6 +178,7 @@ body {
 }
 .blog-card p {
   position: relative;
+  color: #a8a8a8;
   margin: 1rem 0 0;
 }
 .blog-card p:first-of-type {
@@ -283,6 +284,10 @@ body {
   justify-content: center;
   text-align: center;
   margin: 0px;
+}
+
+.album {
+  background-color: #fff;
 }
 
 .toggleimage {
