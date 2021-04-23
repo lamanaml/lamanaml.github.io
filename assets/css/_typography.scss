@@ -1,47 +1,51 @@
-$fontTitle: 'Montserrat', sans-serif; 
-$fontBody: 'Open Sans', sans-serif;
+$fontTitle: 'Montserrat',
+sans-serif;
+$fontBody: 'Open Sans',
+sans-serif;
 
-$color_red: rgb(255,92,91);
-$color_grey: rgb(168,168,168);
-$color_gold: rgb(255,190,74);
+$color_red: rgb(255, 92, 91);
+$color_grey: rgb(168, 168, 168);
+$color_gold: rgb(255, 190, 74);
 
 
 .title {
-  font-family: $fontTitle; 
-  font-weight:bold;
-  font-size:80px; 
+  font-family: $fontTitle;
+  font-weight: bold;
+  font-size: 80px;
   color: $color_gold;
   text-align: center;
 }
+
 .subtitle1 {
-  font-family: $fontTitle; 
-  font-size:40px; 
-  font-weight:bold;
+  font-family: $fontTitle;
+  font-size: 40px;
+  font-weight: bold;
   color: $color_gold;
   text-align: center;
 }
 
 .subtitle2 {
-  font-family: $fontTitle; 
-  font-size:20px; 
-  font-weight:bold;
-  color: $color_gold ;
-  
+  font-family: $fontTitle;
+  font-size: 20px;
+  font-weight: bold;
+  color: $color_gold;
+
 }
+
 .header {
-  font-family: $fontTitle; 
-  font-weight:bold;
-  font-size:60px; 
-  margin:10vh; 
+  font-family: $fontTitle;
+  font-weight: bold;
+  font-size: 60px;
+  margin: 10vh;
   color: $color_gold;
   text-align: center;
 }
 
 
 .intro {
-  font-family: $fontBody ;
-  background-color: $color_grey; 
-  color:white;
+  font-family: $fontBody;
+  background-color: $color_grey;
+  color: white;
   font-size: 20px;
   padding: 30px 100px 30px 100px;
 }
@@ -50,9 +54,9 @@ $color_gold: rgb(255,190,74);
 // ------------------------ Media Queries ------------------------
 
 title {
-  font-family: $fontTitle; 
-  font-weight:bold;
-  font-size:50px; 
+  font-family: $fontTitle;
+  font-weight: bold;
+  font-size: 10px;  
   color: $color_gold;
   text-align: center;
 }

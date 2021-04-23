@@ -93,15 +93,16 @@ body {
   z-index: 1;
 }
 .blog-card .description h1,
-.blog-card .description h2 {
+.blog-card .description h2,
+.blog-card .description h3 {
   font-family: Poppins, sans-serif;
 }
-.blog-card .description h1 {
+.blog-card .description h2 {
   line-height: 1;
   margin: 0;
   font-size: 1.7rem;
 }
-.blog-card .description h2 {
+.blog-card .description h3 {
   font-size: 1rem;
   font-weight: 300;
   text-transform: uppercase;
